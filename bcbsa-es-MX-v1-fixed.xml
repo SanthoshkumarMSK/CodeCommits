@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BCBSA RTT - Spanish TTS pronunciation lexicon (DRAFT)
+  Generated with Claude AI - please review before distribution.
+
+  IMPORTANT:
+  1. xml:lang MUST match the locale of the Azure Spanish voice set in RTT
+     (for example es-US or es-MX). A lexicon only works for one locale.
+  2. Matching is case sensitive, so each casing variant needs its own lexeme.
+  3. Longest phrases come first so the full phrase is matched before a sub-phrase.
+  4. The alias spellings are Spanish-phonetic respellings. Have the Spanish SPOC
+     listen and adjust them before go-live.
+-->
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="es-MX">
+
+  <!-- Full phrase from the closing script -->
+  <lexeme>
+    <grapheme>Blue Cross Blue Shield Global Solutions</grapheme>
+    <grapheme>blue cross blue shield global solutions</grapheme>
+    <grapheme>BLUE CROSS BLUE SHIELD GLOBAL SOLUTIONS</grapheme>
+    <alias>Blu Cros Blu Shild Glóbal Solúshons</alias>
+  </lexeme>
+
+  <!-- Short form -->
+  <lexeme>
+    <grapheme>Blue Cross Blue Shield</grapheme>
+    <grapheme>blue cross blue shield</grapheme>
+    <grapheme>Blue Cross y Blue Shield</grapheme>
+    <grapheme>BLUE CROSS BLUE SHIELD</grapheme>
+    <alias>Blu Cros Blu Shild</alias>
+  </lexeme>
+
+  <!-- Acronyms that may appear in scripts -->
+  <lexeme>
+    <grapheme>BCBSA</grapheme>
+    <alias>Blu Cros Blu Shild Asosiéishon</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>BCBS</grapheme>
+    <alias>Blu Cros Blu Shild</alias>
+  </lexeme>
+
+</lexicon>
