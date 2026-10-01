@@ -25,6 +25,24 @@
     <grapheme>BLUE CROSS BLUE SHIELD GLOBAL SOLUTIONS</grapheme>
     <alias>Blu Cros Blu Shild Glóbal Solúshons</alias>
   </lexeme>
+  <lexeme>
+    <grapheme>Blue Cross</grapheme>
+    <grapheme>blue cross</grapheme>
+    <grapheme>BLUE CROSS</grapheme>
+    <alias>Blu Cros</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Blue Shield</grapheme>
+    <grapheme>blue shield</grapheme>
+    <grapheme> BLUE SHIELD</grapheme>
+    <alias>Blu Shild</alias>
+  </lexeme>
+   <lexeme>
+    <grapheme>Blue Card</grapheme>
+    <grapheme>blue card</grapheme>
+    <grapheme> BLUE card</grapheme>
+    <alias>Blu card</alias>
+  </lexeme>
 
   <!-- Short form -->
   <lexeme>
