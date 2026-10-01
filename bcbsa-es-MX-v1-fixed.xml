@@ -10,6 +10,9 @@
   3. Longest phrases come first so the full phrase is matched before a sub-phrase.
   4. The alias spellings are Spanish-phonetic respellings. Have the Spanish SPOC
      listen and adjust them before go-live.
+
+  v2 changes: Added BlueCard product line entries
+  (BlueCard Access, BlueCard Eligibility, BlueCard PPO, BlueCard Traditional)
 -->
 <lexicon version="1.0"
       xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
@@ -18,30 +21,16 @@
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="es-MX">
 
+  <!-- ==========================================
+       BCBSA Brand Name - Full and Short Forms
+       ========================================== -->
+
   <!-- Full phrase from the closing script -->
   <lexeme>
     <grapheme>Blue Cross Blue Shield Global Solutions</grapheme>
     <grapheme>blue cross blue shield global solutions</grapheme>
     <grapheme>BLUE CROSS BLUE SHIELD GLOBAL SOLUTIONS</grapheme>
     <alias>Blu Cros Blu Shild Glóbal Solúshons</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Blue Cross</grapheme>
-    <grapheme>blue cross</grapheme>
-    <grapheme>BLUE CROSS</grapheme>
-    <alias>Blu Cros</alias>
-  </lexeme>
-  <lexeme>
-    <grapheme>Blue Shield</grapheme>
-    <grapheme>blue shield</grapheme>
-    <grapheme> BLUE SHIELD</grapheme>
-    <alias>Blu Shild</alias>
-  </lexeme>
-   <lexeme>
-    <grapheme>Blue Card</grapheme>
-    <grapheme>blue card</grapheme>
-    <grapheme> BLUE card</grapheme>
-    <alias>Blu card</alias>
   </lexeme>
 
   <!-- Short form -->
@@ -53,7 +42,7 @@
     <alias>Blu Cros Blu Shild</alias>
   </lexeme>
 
-  <!-- Acronyms that may appear in scripts -->
+  <!-- Acronyms -->
   <lexeme>
     <grapheme>BCBSA</grapheme>
     <alias>Blu Cros Blu Shild Asosiéishon</alias>
@@ -61,6 +50,56 @@
   <lexeme>
     <grapheme>BCBS</grapheme>
     <alias>Blu Cros Blu Shild</alias>
+  </lexeme>
+
+  <!-- ==========================================
+       BlueCard Product Lines
+       Longest/most specific phrases first
+       ========================================== -->
+
+  <!-- BlueCard Eligibility -->
+  <lexeme>
+    <grapheme>BlueCard Eligibility</grapheme>
+    <grapheme>Bluecard Eligibility</grapheme>
+    <grapheme>bluecard eligibility</grapheme>
+    <grapheme>BLUECARD ELIGIBILITY</grapheme>
+    <alias>Blu Card Eligibíliti</alias>
+  </lexeme>
+
+  <!-- BlueCard Traditional -->
+  <lexeme>
+    <grapheme>BlueCard Traditional</grapheme>
+    <grapheme>Bluecard Traditional</grapheme>
+    <grapheme>bluecard traditional</grapheme>
+    <grapheme>BLUECARD TRADITIONAL</grapheme>
+    <alias>Blu Card Tradíshonal</alias>
+  </lexeme>
+
+  <!-- BlueCard Access -->
+  <lexeme>
+    <grapheme>BlueCard Access</grapheme>
+    <grapheme>Bluecard Access</grapheme>
+    <grapheme>bluecard access</grapheme>
+    <grapheme>BLUECARD ACCESS</grapheme>
+    <alias>Blu Card Ákses</alias>
+  </lexeme>
+
+  <!-- BlueCard PPO -->
+  <lexeme>
+    <grapheme>BlueCard PPO</grapheme>
+    <grapheme>Bluecard PPO</grapheme>
+    <grapheme>bluecard ppo</grapheme>
+    <grapheme>BLUECARD PPO</grapheme>
+    <alias>Blu Card Pi Pi O</alias>
+  </lexeme>
+
+  <!-- BlueCard standalone (shortest, must come after all BlueCard product variants) -->
+  <lexeme>
+    <grapheme>BlueCard</grapheme>
+    <grapheme>Bluecard</grapheme>
+    <grapheme>bluecard</grapheme>
+    <grapheme>BLUECARD</grapheme>
+    <alias>Blu Card</alias>
   </lexeme>
 
 </lexicon>
