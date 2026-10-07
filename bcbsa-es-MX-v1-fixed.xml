@@ -52,6 +52,21 @@
     <alias>Blu Cros Blu Shild</alias>
   </lexeme>
 
+  <!-- Website -->
+  <lexeme>
+    <grapheme>bcbs.com</grapheme>
+    <grapheme>BCBS.com</grapheme>
+    <grapheme>BCBS dot com</grapheme>
+    <grapheme>BCBS punto com</grapheme>
+    <grapheme>BCBS punto com</grapheme>
+    <grapheme>blue cross blue shield dot com</grapheme>
+    <grapheme>blue cross blue shield punto com</grapheme>
+    <grapheme>blue cross y blue shield punto com</grapheme>
+    <grapheme>blue cross blue shield website</grapheme>
+    <grapheme>blue cross blue shield sitio web</grapheme>
+    <alias>B C B S punto com</alias>
+</lexeme>
+  
   <!-- ==========================================
        BlueCard Product Lines
        Longest/most specific phrases first
