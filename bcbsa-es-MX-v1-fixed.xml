@@ -117,4 +117,18 @@
     <alias>Blu Card</alias>
   </lexeme>
 
+  
+  <!-- GLobal Core -->
+
+  <lexeme>
+    <grapheme>Global Core</grapheme>
+    <grapheme>global core</grapheme>
+    <grapheme>Global Cor</grapheme>
+    <grapheme>global cor</grapheme>
+    <grapheme>Global Kor</grapheme>
+    <grapheme>global kor</grapheme>
+    <grapheme>Global Core</grapheme>
+    <alias>Global Core</alias>
+</lexeme>
+
 </lexicon>
