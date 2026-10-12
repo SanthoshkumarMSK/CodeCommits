@@ -131,4 +131,22 @@
     <alias>Global Core</alias>
 </lexeme>
 
+   <!-- City names -->
+
+  <lexeme>
+  <grapheme>Salt Lake City</grapheme>
+  <grapheme>salt lake city</grapheme>
+  <alias>Solt Léik Síti</alias>
+</lexeme>
+<lexeme>
+  <grapheme>Massachusetts</grapheme>
+  <grapheme>massachusetts</grapheme>
+  <alias>Masachúsets</alias>
+</lexeme>
+<lexeme>
+  <grapheme>San Diego</grapheme>
+  <grapheme>san diego</grapheme>
+  <alias>San Diéigo</alias>
+</lexeme>
+
 </lexicon>
