@@ -148,5 +148,11 @@
   <grapheme>san diego</grapheme>
   <alias>San Diéigo</alias>
 </lexeme>
+  <lexeme>
+  <grapheme>Illinois</grapheme>
+  <grapheme>illinois</grapheme>
+  <grapheme>Illinois</grapheme>
+  <alias>Illinoi</alias>
+</lexeme>
 
 </lexicon>
