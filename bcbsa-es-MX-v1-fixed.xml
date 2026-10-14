@@ -131,28 +131,1014 @@
     <alias>Global Core</alias>
 </lexeme>
 
-   <!-- City names -->
-
+ <!-- ============================================================= -->
+  <!-- US States and territories (full names) -->
+  <!-- ============================================================= -->
+ 
   <lexeme>
-  <grapheme>Salt Lake City</grapheme>
-  <grapheme>salt lake city</grapheme>
-  <alias>Solt Léik Síti</alias>
-</lexeme>
-<lexeme>
-  <grapheme>Massachusetts</grapheme>
-  <grapheme>massachusetts</grapheme>
-  <alias>Masachúsets</alias>
-</lexeme>
-<lexeme>
-  <grapheme>San Diego</grapheme>
-  <grapheme>san diego</grapheme>
-  <alias>San Diéigo</alias>
-</lexeme>
+    <grapheme>Alabama</grapheme>
+    <alias>Alabama</alias>
+  </lexeme>
+ 
   <lexeme>
-  <grapheme>Illinois</grapheme>
-  <grapheme>illinois</grapheme>
-  <grapheme>Illinois</grapheme>
-  <alias>Illinoi</alias>
-</lexeme>
+    <grapheme>Arizona</grapheme>
+    <alias>Arizona</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Arkansas</grapheme>
+    <alias>Árkansas</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>California</grapheme>
+    <alias>California</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Colorado</grapheme>
+    <alias>Colorado</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Connecticut</grapheme>
+    <alias>Conécticut</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Florida</grapheme>
+    <alias>Florida</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Georgia</grapheme>
+    <alias>Yorya</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hawaii</grapheme>
+    <alias>Jawái</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Illinois</grapheme>
+    <alias>Illinóis</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Indiana</grapheme>
+    <alias>Indiana</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Iowa</grapheme>
+    <alias>Áiowa</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Kentucky</grapheme>
+    <alias>Kentucky</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Louisiana</grapheme>
+    <alias>Luisiana</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Maine</grapheme>
+    <alias>Méin</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Maryland</grapheme>
+    <alias>Máryland</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Michigan</grapheme>
+    <alias>Míchigan</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Minnesota</grapheme>
+    <alias>Minnesota</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Missouri</grapheme>
+    <alias>Missouri</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Montana</grapheme>
+    <alias>Montana</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Nebraska</grapheme>
+    <alias>Nebraska</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Nevada</grapheme>
+    <alias>Nevada</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>New Jersey</grapheme>
+    <alias>Nueva Jersey</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>New Mexico</grapheme>
+    <alias>Nuevo México</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>North Carolina</grapheme>
+    <alias>Carolina del Norte</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Ohio</grapheme>
+    <alias>Ohio</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Oklahoma</grapheme>
+    <alias>Oklahoma</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Oregon</grapheme>
+    <alias>Óregon</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Pennsylvania</grapheme>
+    <alias>Pensilvania</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Puerto Rico</grapheme>
+    <alias>Puerto Rico</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Rhode Island</grapheme>
+    <alias>Róud Áilan</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>South Carolina</grapheme>
+    <alias>Carolina del Sur</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Tennessee</grapheme>
+    <alias>Tennessée</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Texas</grapheme>
+    <alias>Texas</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Utah</grapheme>
+    <alias>Iúta</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Virginia</grapheme>
+    <alias>Virginia</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Wisconsin</grapheme>
+    <alias>Wisconsin</alias>
+  </lexeme>
+ 
+  <!-- ============================================================= -->
+  <!-- US Cities flagged as coming through muffled -->
+  <!-- ============================================================= -->
+ 
+  <lexeme>
+    <grapheme>Adkins</grapheme>
+    <alias>Adkins</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Albuquerque</grapheme>
+    <alias>Albuquerque</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Annandale</grapheme>
+    <alias>Ánnandale</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Arcadia</grapheme>
+    <alias>Arcadia</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Asheville</grapheme>
+    <alias>Asheville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Auburn</grapheme>
+    <alias>Auburn</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Austin</grapheme>
+    <alias>Austin</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Baltimore</grapheme>
+    <alias>Báltimore</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Bel Harbour</grapheme>
+    <alias>Bel Hárbour</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Berwick</grapheme>
+    <alias>Bérwick</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Bigfork</grapheme>
+    <alias>Bígfork</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Birmingham</grapheme>
+    <alias>Bírmingham</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Bolingbrook</grapheme>
+    <alias>Bólingbrook</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Bountiful</grapheme>
+    <alias>Bóuntiful</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Bowling Green</grapheme>
+    <alias>Bówling Green</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Boynton Beach</grapheme>
+    <alias>Bóynton Beach</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Brighton</grapheme>
+    <alias>Bráiton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Burbank</grapheme>
+    <alias>Búrbank</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Carlsbad</grapheme>
+    <alias>Cárlsbad</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Carmel</grapheme>
+    <alias>Cármel</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Carrollton</grapheme>
+    <alias>Cárrollton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Ceres</grapheme>
+    <alias>Ceres</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Champaign</grapheme>
+    <alias>Champéin</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Chicago</grapheme>
+    <alias>Shicágo</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Chickasha</grapheme>
+    <alias>Chíckasha</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Chula Vista</grapheme>
+    <alias>Chula Vista</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Cicero</grapheme>
+    <alias>Cícero</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Clinton</grapheme>
+    <alias>Clinton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>College Park</grapheme>
+    <alias>College Park</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Concord</grapheme>
+    <alias>Cóncord</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Corona</grapheme>
+    <alias>Corona</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Corpus Christi</grapheme>
+    <alias>Corpus Christi</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Croydon</grapheme>
+    <alias>Króidon</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Cumming</grapheme>
+    <alias>Cúmming</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Dallas</grapheme>
+    <alias>Dallas</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Danville</grapheme>
+    <alias>Danville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Davie</grapheme>
+    <alias>Déivi</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Dayton</grapheme>
+    <alias>Déiton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Demopolis</grapheme>
+    <alias>Demópolis</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Denver</grapheme>
+    <alias>Dénver</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Doral</grapheme>
+    <alias>Doral</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Doraville</grapheme>
+    <alias>Dóraville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Edina</grapheme>
+    <alias>Edina</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>El Paso</grapheme>
+    <alias>El Paso</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Elgin</grapheme>
+    <alias>Elgin</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Enola</grapheme>
+    <alias>Enola</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Euless</grapheme>
+    <alias>Iules</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Everett</grapheme>
+    <alias>Éverett</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Fair Oak</grapheme>
+    <alias>Fair Oak</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Fort Myers</grapheme>
+    <alias>Fort Myers</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Fort Wayne</grapheme>
+    <alias>Fort Wayne</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Fort Worth</grapheme>
+    <alias>Fort Worth</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Galloway</grapheme>
+    <alias>Gálloway</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Germantown</grapheme>
+    <alias>Gérmantown</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Gilbert</grapheme>
+    <alias>Gílbert</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Glendale</grapheme>
+    <alias>Glendale</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Goodyear</grapheme>
+    <alias>Gúdyear</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Grayslake</grapheme>
+    <alias>Grayslake</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hanover Park</grapheme>
+    <alias>Hánover Park</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Harahan</grapheme>
+    <alias>Hárahan</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hartford</grapheme>
+    <alias>Hártford</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hayward</grapheme>
+    <alias>Háyward</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hebron</grapheme>
+    <alias>Hebron</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Henderson</grapheme>
+    <alias>Hénderson</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Herriman</grapheme>
+    <alias>Hérriman</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hilliard</grapheme>
+    <alias>Hílliard</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hilton Head Island</grapheme>
+    <alias>Hílton Head Áisland</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hinsdale</grapheme>
+    <alias>Hinsdale</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Hollywood</grapheme>
+    <alias>Hólivud</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Houston</grapheme>
+    <alias>Jiuston</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Huntsville</grapheme>
+    <alias>Huntsville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Independence</grapheme>
+    <alias>Independence</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Irving</grapheme>
+    <alias>Írving</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Kansas City</grapheme>
+    <alias>Kansas City</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Kent</grapheme>
+    <alias>Kent</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Kissimmee</grapheme>
+    <alias>Kissimmee</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lafayette</grapheme>
+    <alias>Lafayette</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lake Charles</grapheme>
+    <alias>Lake Charles</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lake in the Hills</grapheme>
+    <alias>Lake in the Hills</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lakeville</grapheme>
+    <alias>Lakeville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lansdale</grapheme>
+    <alias>Lansdale</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Las Vegas</grapheme>
+    <alias>Las Vegas</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Leesburg</grapheme>
+    <alias>Lísburg</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lighthouse Point</grapheme>
+    <alias>Láithaus Point</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lima</grapheme>
+    <alias>Láima</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Littleton</grapheme>
+    <alias>Lítleton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Lubbock</grapheme>
+    <alias>Lúbbock</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Mableton</grapheme>
+    <alias>Méibleton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Machesney Park</grapheme>
+    <alias>Machesney Park</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Macon</grapheme>
+    <alias>Méicon</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Madison</grapheme>
+    <alias>Mádison</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Marietta</grapheme>
+    <alias>Marietta</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Marion</grapheme>
+    <alias>Márion</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Marlton</grapheme>
+    <alias>Marlton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>McHenry</grapheme>
+    <alias>McHenry</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>McKinney</grapheme>
+    <alias>McKinney</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Merrillville</grapheme>
+    <alias>Mérrillville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Miami</grapheme>
+    <alias>Miami</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Mokena</grapheme>
+    <alias>Mokena</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Monroe</grapheme>
+    <alias>Monróe</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Monroeville</grapheme>
+    <alias>Mónroeville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Montgomery</grapheme>
+    <alias>Montgómery</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Moreno Valley</grapheme>
+    <alias>Moreno Valley</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Munster</grapheme>
+    <alias>Múnster</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Naples</grapheme>
+    <alias>Naples</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Nashville</grapheme>
+    <alias>Nashville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>New Orleans</grapheme>
+    <alias>Nueva Orleans</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>New York</grapheme>
+    <alias>Nueva York</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Newark</grapheme>
+    <alias>Níuark</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Newnan</grapheme>
+    <alias>Niúnan</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>North Little Rock</grapheme>
+    <alias>North Little Rock</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>North Mankato</grapheme>
+    <alias>North Mankato</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Oakland</grapheme>
+    <alias>Óakland</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Oklahoma City</grapheme>
+    <alias>Oklahoma City</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Omaha</grapheme>
+    <alias>Ómaha</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Orlando</grapheme>
+    <alias>Orlando</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Owenton</grapheme>
+    <alias>Ówenton</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Paterson</grapheme>
+    <alias>Páterson</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Pennsauken</grapheme>
+    <alias>Pennsauken</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Perth Amboy</grapheme>
+    <alias>Perth Amboy</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Pflugerville</grapheme>
+    <alias>Flúgerville</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Phoenix</grapheme>
+    <alias>Fénix</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Pittsburgh</grapheme>
+    <alias>Pítsburg</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Pomona</grapheme>
+    <alias>Pomona</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Portland</grapheme>
+    <alias>Pórtland</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Providence</grapheme>
+    <alias>Próvidence</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Pueblo</grapheme>
+    <alias>Pueblo</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Red Bank</grapheme>
+    <alias>Red Bank</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Riverside</grapheme>
+    <alias>Ríverside</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Sacramento</grapheme>
+    <alias>Sacramento</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Saginaw</grapheme>
+    <alias>Ságinaw</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Saint Paul</grapheme>
+    <alias>Seint Pol</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>San Antonio</grapheme>
+    <alias>San Antonio</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>San Leandro</grapheme>
+    <alias>San Leandro</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>San Luis Obispo</grapheme>
+    <alias>San Luis Obispo</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>San Pedro</grapheme>
+    <alias>San Pedro</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Santa Ana</grapheme>
+    <alias>Santa Ana</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Shively</grapheme>
+    <alias>Cháivli</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Shreveport</grapheme>
+    <alias>Shrívport</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Spanaway</grapheme>
+    <alias>Spánaway</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Spring Hill</grapheme>
+    <alias>Spring Hill</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Springfield</grapheme>
+    <alias>Spríngfield</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>St. Petersburg</grapheme>
+    <alias>Saint Pétersburg</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Steward</grapheme>
+    <alias>Stíuard</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Stockbridge</grapheme>
+    <alias>Stockbridge</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Tacoma</grapheme>
+    <alias>Tacoma</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Tampa</grapheme>
+    <alias>Tampa</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Tempe</grapheme>
+    <alias>Tempé</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Toledo</grapheme>
+    <alias>Toledo</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Torrance</grapheme>
+    <alias>Torrance</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Trujillo Alto</grapheme>
+    <alias>Trujillo Alto</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Tulsa</grapheme>
+    <alias>Tulsa</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Van Nuys</grapheme>
+    <alias>Van Náis</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Wahiawa</grapheme>
+    <alias>Wahiawa</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Wake Forest</grapheme>
+    <alias>Wake Fórest</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>West New York</grapheme>
+    <alias>West New York</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>West Orange</grapheme>
+    <alias>West Orange</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>West Palm Beach</grapheme>
+    <alias>West Palm Beach</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>West Valley City</grapheme>
+    <alias>West Valley City</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Westmont</grapheme>
+    <alias>Wéstmont</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Winnebago</grapheme>
+    <alias>Winnebago</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Woodbridge</grapheme>
+    <alias>Woodbridge</alias>
+  </lexeme>
+ 
+  <lexeme>
+    <grapheme>Youngsville</grapheme>
+    <alias>Youngsville</alias>
+  </lexeme>
+ 
+ 
 
 </lexicon>
